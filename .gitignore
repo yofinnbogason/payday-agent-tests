@@ -1,0 +1,11 @@
+# venv + caches
+.venv/
+__pycache__/
+*.pyc
+
+# secrets
+.env
+
+# OS/editor
+.DS_Store
+.vscode/
